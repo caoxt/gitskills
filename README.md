@@ -1,2 +1,2 @@
 # gitskills
-this is branch of 
+this is new baranch of chinese
