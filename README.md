@@ -1,2 +1,2 @@
 # gitskills
-this is new baranch of chinese
+this is new is new baranch of chinese
